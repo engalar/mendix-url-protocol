@@ -1,0 +1,1 @@
+call modules\try\setup.bat
